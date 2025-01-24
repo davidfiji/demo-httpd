@@ -1,29 +1,3 @@
-# version: 0.2
-
-# phases:
-#   install:
-#     runtime-versions:
-#       nodejs: latest
-#     commands:
-#       - echo 'install phase'
-
-#   pre_build:
-#     commands:
-#       - echo 'pre_build phase'
-
-#   build:
-#     commands:
-#       - echo 'build phase'
-#       - grep -Fq "Landing" public/index.html
-
-#   post_build:
-#     commands:
-#       - echo 'post_build phase'
-
-
-
-
-
 version: 0.2
 
 phases:
