@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      nodeJs: latest
+      nodejs: latest
     commands:
       - echo 'install phase'
 
